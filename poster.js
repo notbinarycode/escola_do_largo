@@ -22,16 +22,11 @@ src(s3).scale(0.5, 0.5).scroll(0,0.16,-0.005).mask(shape(4).scale(1.1,1, 0.53).s
 src(o2).add(o1).out()
 
 
+s0.initImage("https://raw.githubusercontent.com/notbinarycode/escola_do_largo/main/images/kaotec.png")
+
+s1.initImage("https://raw.githubusercontent.com/notbinarycode/escola_do_largo/main/images/guido.png")
 
 
+s2.initImage("https://raw.githubusercontent.com/notbinarycode/escola_do_largo/main/images/nariz_.png")
 
-
-
-s0.initImage("https://github.com/notbinarycode/escola_do_largo/images/kaotec.png")
-
-s1.initImage("https://github.com/notbinarycode/escola_do_largo/images/guido.png")
-
-
-s2.initImage("https://github.com/notbinarycode/escola_do_largo/images/nariz_.png")
-
-s3.initImage("https://github.com/notbinarycode/escola_do_largo/images/largo.png")
+s3.initImage("https://raw.githubusercontent.com/notbinarycode/escola_do_largo/main/images/largo.png")
